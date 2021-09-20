@@ -4,7 +4,7 @@ export class BaseContainer extends Component {
 
   render() {
     return(
-      <p>testing new component</p>
+      <a href="www.google.com">Testing hyperlink</a>
     )
   }
 
