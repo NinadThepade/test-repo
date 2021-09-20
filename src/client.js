@@ -1,8 +1,9 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
+import BaseContainer from './components/BaseContainer';
 
 ReactDOM.render(
-<h1>Repo to practice React and Node</h1>,
+  <BaseContainer />,
   document.getElementById('root')
 );
